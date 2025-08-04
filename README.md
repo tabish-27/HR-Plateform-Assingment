@@ -83,7 +83,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if you want:
-- Badges (like `vercel deployed`, `MIT license`, etc.)
-- README converted into a professional **portfolio PDF**
-- A LinkedIn or X (Twitter) post to announce this project launch
